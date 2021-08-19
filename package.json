@@ -1,0 +1,23 @@
+{
+  "name": "npm-one",
+  "version": "1.0.0",
+  "description": "Un hola mundo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugaco/npm-one.git"
+  },
+  "keywords": [
+    "tet",
+    "hola-mundo"
+  ],
+  "author": "mugaco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugaco/npm-one/issues"
+  },
+  "homepage": "https://github.com/mugaco/npm-one#readme"
+}
