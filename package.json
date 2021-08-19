@@ -1,5 +1,5 @@
 {
-  "name": "npm-one",
+  "name": "@mugaco/npm-one",
   "version": "0.0.1",
   "description": "Un hola mundo ",
   "main": "index.js",
